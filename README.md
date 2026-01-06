@@ -7,18 +7,31 @@ This project focuses on analyzing product demand patterns using machine learning
 ## Objectives
 - Perform data cleaning and preprocessing  
 - Explore demand-related trends through EDA  
-- Identify key features related to product demand  
+- Identify key features affecting product demand  
 - Experiment with simple machine learning models
 
 ## Methodology
 The project includes:
 - Handling missing and duplicate values  
-- Removing irrelevant features  
-- Exploratory Data Analysis (EDA)  
-- Feature understanding and model experimentation
+- Removing irrelevant or noisy features  
+- Exploratory Data Analysis (EDA) and visualization  
+- Feature understanding and model experimentation  
 
 ## Tools & Technologies
 Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Google Colab
 
 ## Files
 - **IT461.ipynb** — Main project notebook
+
+## Documents
+- **Project_Report.pdf** — Full project report including methodology, analysis, results, and discussion
+
+## Notes
+This project was completed as part of an academic course and is intended for learning and educational purposes.
+
+## Contributors
+- Arwa Almutairi
+- Hatoun Almogherah
+- Shahad Almutairi
+- Ghena Almogayad
+- Haya Albaker
